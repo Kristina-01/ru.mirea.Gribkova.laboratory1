@@ -16,3 +16,5 @@ rootProject.name = "ru.mirea.Gribkova.laboratory1"
 include ':app'
 
 include ':yandexmap'
+include ':ymlocation'
+include ':yandexdriver'

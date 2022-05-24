@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/rcif7/AndroidStudioProjects/rumireaGribkovalaboratory1/app/src/main/res/layout/activity_maps.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/rcif7/AndroidStudioProjects/rumireaGribkovalaboratory1/yandexdriver/src/main/res/layout/activity_main.xml" value="0.23777173913043478" />
         <entry key="..\:/Users/rcif7/AndroidStudioProjects/rumireaGribkovalaboratory1/yandexmap/src/main/res/layout/activity_main.xml" value="0.2210144927536232" />
         <entry key="..\:/Users/rcif7/AndroidStudioProjects/rumireaGribkovalaboratory1/yandexmaps/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
         <entry key="..\:/Users/rcif7/AndroidStudioProjects/rumireaGribkovalaboratory1/yandexmaps2/src/main/res/layout/activity_main.xml" value="0.2890625" />
+        <entry key="..\:/Users/rcif7/AndroidStudioProjects/rumireaGribkovalaboratory1/ymlocation/src/main/res/layout/activity_main.xml" value="0.3625" />
       </map>
     </option>
   </component>
